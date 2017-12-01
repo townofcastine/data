@@ -1,4 +1,4 @@
-Location or Address,Location - Remarks,Property Owner,Public,Private,"New Tag #","Old Tag #","DBH ("")","General Condition of Crown","Foliage Quality","Structural Quality","Deadwood Present","Quality Tree",Remarks,Maintenance Performed
+"Location or Address","Location - Remarks","Property Owner",Public,Private,"New Tag #","Old Tag #","DBH ("")","General Condition of Crown","Foliage Quality","Structural Quality","Deadwood Present","Quality Tree",Remarks,Maintenance Performed
 - Battle Ave South side,Leavitt Hall Parking lot,MMA,"",X,1,4,31,F,F,G,G,"","",Pruned
 - Battle Ave South side,Leavitt Hall Parking lot,MMA,"",X,2,-,36,F,F,"",VP,"",Large stubbs,Pruned
 - Battle Ave South side,Leavitt Hall Parking lot,MMA,"",X,3,-,26,P,P,G,G,"",Small DW,""
@@ -12,7 +12,7 @@ Location or Address,Location - Remarks,Property Owner,Public,Private,"New Tag #
 - Pleasant St West side,Curtis Hall East side,MMA,"",X,1 1,"",15,F,F,P,G,"",Many old cankers on butt,""
 - Pleasant St West side,Curtis Hall East side,MMA,"",X,1 2,"",14,G,G,G,G,"",Small DW,""
 - Pleasant St West side,Curtis Hall East side,MMA,"",X,1 3,"",25,G,G,G,G,"",Small DW,""
-"- Pleasant St West side",M.C. Smith Gym North side,MMA,"",X,1 4,"",26,G,G,F,F,"",Medium DW,""
+"- Pleasant St West side",M.C. Smith Gym North side,MMA,"",X,1 4,"",26,G,G,F,F,"",Medium DW,""
 54 Pleasant St West side,Buoy House,MMA,"",X,1 5,51,35,G,G,G,VP,"",Large DW,Pruned
 52 Pleasant St West side,Sextant House,MMA,"",X,1 6,"",38,P,P,F,VP,"","Large DW, High cavity",Pruned
 44 Pleasant St West side,NROTC,MMA,"",X,1 7,53,34,G,G,P,P,"","Medium DW, Low cavity",""
@@ -42,7 +42,6 @@ Location or Address,Location - Remarks,Property Owner,Public,Private,"New Tag #
 - Main St West side,Between Dismukes & Anchor,MMA,"",X,4 1,"",17,F,F,G,F,"",Medium DW,""
 - Main St West side,Between Dismukes & Anchor,MMA,"",X,4 2,37,41,F,F,F,G,"",Weak crotch with cavity,Pruned
 - Main St West side,Between Dismukes & Anchor,MMA,"",X,4 3,"",26,G,G,G,G,"",Small DW,""
-Location or Address,Location - Remarks,Property Owner,Public,Private,"New Tag #","Old Tag #","DBH ("")","","","General Condition of Crown","Foliage Quality","Structural Quality","Deadwood Present","Quality Tree",Remarks,Maintenance Performed
 - Main St West side,Between Dismukes & Anchor,MMA,"",X,4 5,"",31,"","",P,F,G,VP,"",Large DW,""
 - Pleasant St East side,Dismukes Hall,MMA,"",X,4 6,"",28,"","",G,G,G,G,"","",""
 67 Pleasant St East side,Pilot House,MMA,"",X,4 7,26,30,"","",G,F,G,P,"",Medium DW,""
@@ -86,7 +85,6 @@ Location or Address,Location - Remarks,Property Owner,Public,Private,"New Tag #
 7 Court St South side,"",Warker,"",X,1 24,"",16 17,"","",G,G,F,G,"",Small DW,""
 181 Perkins St South side,"",Rogers,"",X,1 25,"",34,"","",G,G,G,G,"",Small DW,""
 181 Perkins St South side,"",Rogers,"",X,1 26,253,53,"","",G,F,P,G,"","Large cavity, Install 1 cable",""
-Location or Address,Location - Remarks,Property Owner,Public,Private,"New Tag #","Old Tag #","DBH ("")","General Condition of Crown","Foliage Quality","Structural Quality","Deadwood Present","Quality Tree",Remarks,Maintenance Performed
 185 Perkins St South side,"",Pott,"",X,1 28,"",58,G,G,F,G,"","",""
 191 Perkins St South side,"",Rogers,"",X,1 29,"",21,G,G,G,G,"",Root damage,""
 191 Perkins St South side,"",Rogers,"",X,1 30,"",16 14,G,G,G,G,"","",""
@@ -130,7 +128,6 @@ Perkins St South side,18 Main St,Catuna,X,"",1 61,45,"",G,VG,F,F,"","",Pruned
 39 Pleasant St East side,"",Nelson,X,"",1 68,297,40,G,G,G,G,"","",""
 43 Pleasant St East side,"",Warren,X,"",1 69,374,28,F,F,G,G,"",Small DW,""
 43 Pleasant St East side,"",Warren,X,"",1 70,"",6,G,G,G,G,"","",""
-Location or Address,Location - Remarks,Property Owner,Public,Private,"New Tag #","Old Tag #","DBH ("")","General Condition of Crown","Foliage Quality","Structural Quality","Deadwood Present","Quality Tree",Remarks,Maintenance Performed
 Pleasant St East side,80 Main St Rear,McLean,X,"",1 72,329,22,G,G,F,G,"","Small DW, Old damage",""
 Pleasant St East side,80 Main St Rear,McLean,X,"",1 73,330,25,F,G,F,G,"",Small DW,""
 53 Pleasant St East side,"",Fullenweider,"",X,1 74,331,48,F,G,G,P,"",Large DW,""
@@ -174,7 +171,6 @@ Main St West side,56 Court St,Davis,X,"",1 92,"",11,G,G,F,G,"",Fair crotch struc
 113 Main St East side,"",James,X,"",2 12,197,28,G,G,G,F,"",Small DW,""
 113 Main St East side,"",James,X,"",2 13,"",10,G,G,F,G,"","",""
 Battle Avenue South side,"",Bangor SB,"",X,2 14,"",18,G,G,G,G,"","",""
-Location or Address,Location - Remarks,Property Owner,Public,Private,"New Tag #","Old Tag #","DBH ("")","General Condition of Crown","Foliage Quality","Structural Quality","Deadwood Present","Quality Tree",Remarks,Maintenance Performed
 Battle Avenue South side,Wooded area,Golf Club,X,"",2 16,"",33,G,G,G,G,"","",""
 Battle Avenue South side,"",Bangor SB,"",X,2 17,"",11,F,F,G,G,"","",""
 91 Main St East side,"",Benjamin,"",X,2 18,"",23,G,G,G,G,"","",""
@@ -218,7 +214,6 @@ School St Common,"",Castine,X,"",2 55,115,30,G,G,F,G,"",Old damage,REMOVED (DED)
 School St Common,"",Castine,X,"",2 56,"",27,G,G,G,F,"",Medium DW,""
 School St East side,"",Castine,X,"",2 57,"",8,G,G,G,F,"",Small DW,""
 88 Court St North side,"",Olivari,X,"",2 58,"",9,G,G,F,G,"",Fair crotch structure,""
-Location or Address,Location - Remarks,Property Owner,Public,Private,"New Tag #","Old Tag #","DBH ("")","General Condition of Crown","Foliage Quality","Structural Quality","Deadwood Present","Quality Tree",Remarks,Maintenance Performed
 112 Court St North side,"",Moss,X,"",2 60,"",25,VG,VG,G,G,"","",""
 103 Court St South side,"",Slocum,X,"",2 61,"",7,G,G,G,G,"","",""
 97 Court St South side,"",Galen/Genereux,X,"",2 62,"",37,G,G,G,G,"","",REMOVED (DED)
@@ -262,7 +257,6 @@ Water St South side,Opposite 75 Water St,Babcock,"",X,2 93,"",18,G,G,G,G,"","","
 Spring St West side,"",Castine,"",X,3 00,"",15,G,G,G,G,"","",""
 Spring St West side,"",Castine,"",X,3 01,"",15,G,G,G,G,"","",""
 145 Court St South side,"","Warren, R",X,"",3 02,"",46,G,G,F,F,"","Medium DW, Structural issues",Pruned; 3 cables
-Location or Address,Location - Remarks,Property Owner,Public,Private,"New Tag #","Old Tag #","DBH ("")","General Condition of Crown","Foliage Quality","Structural Quality","Deadwood Present","Quality Tree",Remarks,Maintenance Performed
 125 Court St South side,"","Tenney, A","",X,3 04,"",15 12 12 12,G,G,VP,G,"","Damage, Bad crotches",REMOVED by Owner
 117 Court St South side,"",Clements,X,"",3 05,"",43,G,VG,F,G,"",Old damage,Pruned
 113 Court St South side,"",Tarlin,X,"",3 06,219,38,F,P,G,F,"",Medium DW,CHECK OVERHANG
@@ -298,7 +292,7 @@ Battle Ave North side,Tennis Court,Golf Club,X,"",3 35,282,27,G,G,G,G,"",Small D
 Battle Ave North side,Fort George,Castine,X,"",3 36,163,31,F,F,G,F,"",Small DW,""
 Battle Ave North side,Fort George,Castine,X,"",3 37,162,16,G,G,G,G,"","",""
 Battle Ave North side,Fort George,Castine,X,"",3 38,161,17,G,G,G,G,"","",""
-"Battle Ave North side",Fort George,Castine,X,"",3 39,"",33,G,G,P,G,"",Old damage,Not addressed in 2011
+"Battle Ave North side",Fort George,Castine,X,"",3 39,"",33,G,G,P,G,"",Old damage,Not addressed in 2011
 Battle Ave North side,Fort George,Castine,X,"",3 40,159,27,F,G,G,G,"",Small DW,""
 57 Pleasant St East side,"",Sweet,X,"",3 41,300,19,G,G,G,G,"",Small DW,""
 191 Perkins St South side,"",Rogers,"",X,3 42,"",16,G,G,F,G,"",Fair crotch structure,""
@@ -306,7 +300,6 @@ Perkins St North side,Opposite 97 Perkins St,Baker,"",X,3 43,"",11,G,F,G,G,"",""
 Perkins St North side,Opposite 97 Perkins St,Baker,"",X,3 44,"",6 7 8 9 11,G,G,F,G,"",Clump,DED 07/25/11
 77 Main St East side,"",Bagot,"",X,3 45,"",19,G,G,F,F,"","Small  DW, Mediun DW",""
 77 Main St East side,"",Bagot,"",X,3 46,"",8,G,G,F,G,"","",""
-Location or Address,Location - Remarks,Property Owner,Public,Private,"New Tag #","Old Tag #","DBH ("")","General Condition of Crown","Foliage Quality","Structural Quality","Deadwood Present","Quality Tree",Remarks,Maintenance Performed
 Battle Ave South side,5th Fairway,Golf Club,"",X,3 48,"",22,F,G,G,G,"","",""
 Court St North side,"",Health Center,"",X,3 49,"",21,G,G,G,G,"","",""
 Court St North side,"",Mundth,"",X,3 50,"",19,G,F,G,F,"",Medium DW,""
